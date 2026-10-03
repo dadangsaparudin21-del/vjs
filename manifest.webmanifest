@@ -1,0 +1,18 @@
+{
+  "name": "Sistem Keuangan & Invoicing - CV. VIA JAYA SINERGI",
+  "short_name": "VJS Finance",
+  "description": "Aplikasi keuangan, invoice, aset, dan stok CV. Via Jaya Sinergi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#1E3A8A",
+  "lang": "id",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
